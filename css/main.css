@@ -18,7 +18,11 @@ h2 {
 h3 {
   font-size: 18px;
 }
-
+ul-a {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
 .parallax {
   background-size: cover;
   background-repeat: no-repeat;

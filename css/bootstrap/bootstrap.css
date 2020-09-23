@@ -3231,11 +3231,12 @@ input[type="button"].btn-block {
 
 .nav-link {
   display: block;
+  color : #679637;
   padding: 0.5rem 1rem; }
   .nav-link:hover, .nav-link:focus {
     text-decoration: none; }
   .nav-link.disabled {
-    color: #6c757d; }
+    color: #679637; }
 
 .nav-tabs {
   border-bottom: 1px solid #dee2e6; }
@@ -7220,37 +7221,37 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #dd6b4d !important; }
+  color: #76CC20 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #cf4b28 !important; }
+  color: #76CC20 !important; }
 
 .text-secondary {
-  color: #6c757d !important; }
+  color: #76CC20 !important; }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #545b62 !important; }
+  color: #76CC20 !important; }
 
 .text-success {
-  color: #8bc34a !important; }
+  color: #679637 !important; }
 
 a.text-success:hover, a.text-success:focus {
-  color: #71a436 !important; }
+  color: #679637 !important; }
 
 .text-info {
-  color: #51eaea !important; }
+  color: #679637 !important; }
 
 a.text-info:hover, a.text-info:focus {
-  color: #23e5e5 !important; }
+  color: #679637 !important; }
 
 .text-warning {
-  color: #f89d13 !important; }
+  color: #679637 !important; }
 
 a.text-warning:hover, a.text-warning:focus {
-  color: #d28106 !important; }
+  color: #679637 !important; }
 
 .text-danger {
-  color: #f23a2e !important; }
+  color: #679637 !important; }
 
 a.text-danger:hover, a.text-danger:focus {
   color: #df1b0e !important; }
